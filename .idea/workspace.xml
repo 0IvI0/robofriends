@@ -2,25 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33bcbc47-bb8c-461a-a9d8-4e2808318e42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CardList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Scroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SearchBox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/SEGA.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/robots.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Friends.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HomePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/KittenCardList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Kittens.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Robots.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CardList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CardList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SearchBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,8 +92,19 @@
       <workItem from="1568038902282" duration="2126000" />
       <workItem from="1568055808019" duration="3340000" />
       <workItem from="1568098829672" duration="15987000" />
-      <workItem from="1568141054314" duration="624000" />
+      <workItem from="1568141054314" duration="3022000" />
+      <workItem from="1568184539895" duration="12426000" />
+      <workItem from="1568274455786" duration="21423000" />
+      <workItem from="1568357434688" duration="4988000" />
     </task>
+    <task id="LOCAL-00001" summary="RoboFriendsApp">
+      <created>1568141971471</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568141971471</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +124,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="RoboFriendsApp" />
+    <option name="LAST_COMMIT_MESSAGE" value="RoboFriendsApp" />
   </component>
 </project>

@@ -38,7 +38,7 @@ class Friends extends Component {
                     <h1 className='f1'>Friends</h1>
                     <SearchBox searchChange={this.onSearchChange}/>
                     <Scroll>
-                        <CardList friends={filteredFriends}/>
+                        <CardList friends={filteredFriends} imageSet={this.props.imageSet}/>
                     </Scroll>
                 </div>
             );

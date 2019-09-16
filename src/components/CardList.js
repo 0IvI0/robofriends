@@ -1,7 +1,7 @@
 import React from 'react';
 import Card from "./Card";
 
-const CardList = ({ friends }) => {
+const CardList = ({ friends, imageSet }) => {
     return (
         <div>
             {
@@ -12,6 +12,7 @@ const CardList = ({ friends }) => {
                             id={friends[i].id}
                             name={friends[i].name}
                             email={friends[i].email}
+                            friendImg={`https://robohash.org/${friends[i].id}?set=${imageSet}`}
                         />
                     );
                 })

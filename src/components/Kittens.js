@@ -1,18 +1,10 @@
 import React from 'react';
-import Friends from "./Friends";
-import Card from './Card';
-
-/*********************************************************************************************
-*           {<img alt='kittens' src={`https://robohash.org/${id}?set=set4`} />}              *
-*********************************************************************************************/
-
+import Friends from "../containers/Friends";
 
 const Kittens = ({id}) => {
-    const kittenImages = `https://robohash.org/${id}?set=set4`;
     return (
         <div>
-            <Friends>
-                <Card friendImg={kittenImages}/>
+            <Friends imageSet="set4">
             </Friends>
         </div>
     );

@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33bcbc47-bb8c-461a-a9d8-4e2808318e42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Friends.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HomePage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/KittenCardList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Kittens.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Robots.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/CardList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CardList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SearchBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchBox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Friends.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Friends.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/KittenCardList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Kittens.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Kittens.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Robots.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Robots.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/robots.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +29,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../robofriends-redux-master/robofriends-redux-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tictactoe" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -95,7 +89,12 @@
       <workItem from="1568141054314" duration="3022000" />
       <workItem from="1568184539895" duration="12426000" />
       <workItem from="1568274455786" duration="21423000" />
-      <workItem from="1568357434688" duration="4988000" />
+      <workItem from="1568357434688" duration="13066000" />
+      <workItem from="1568462026637" duration="2184000" />
+      <workItem from="1568472276192" duration="631000" />
+      <workItem from="1568475140143" duration="617000" />
+      <workItem from="1568555333948" duration="678000" />
+      <workItem from="1568616909425" duration="4634000" />
     </task>
     <task id="LOCAL-00001" summary="RoboFriendsApp">
       <created>1568141971471</created>
@@ -104,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568141971471</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created multiply component for robots and kittens.">
+      <created>1568363790590</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568363790590</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +133,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="RoboFriendsApp" />
-    <option name="LAST_COMMIT_MESSAGE" value="RoboFriendsApp" />
+    <MESSAGE value="Created multiply component for robots and kittens." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created multiply component for robots and kittens." />
   </component>
 </project>
